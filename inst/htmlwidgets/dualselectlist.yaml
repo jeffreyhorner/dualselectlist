@@ -1,0 +1,11 @@
+# (uncomment to add a dependency)
+dependencies:
+  - name: jquery
+    version: 1.11.3
+    src: "htmlwidgets/lib/jquery"
+    script: jquery.min.js
+  - name: bala.DualSelectList
+    version: 0.0
+    src: htmlwidgets
+    script: bala.DualSelectList.jquery.js
+    stylesheet: bala.DualSelectList.css
